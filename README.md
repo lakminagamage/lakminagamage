@@ -15,6 +15,6 @@
 <a  href="https://www.linkedin.com/in/lakmina-gamage-381107215"><img src="https://img.shields.io/badge/LinkedIn-0077B5?syle=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 
 
-<h2>My github stats :</h2>
+<h2>My github public stats :</h2>
 
 ![Lakmina's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakminagamage&show_icons=true&theme=transparent)
