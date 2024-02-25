@@ -1,4 +1,4 @@
-<h1>Hi 👋🏻 I'm Lakmina Pramodya Gamage👨🏼‍💻.</h1>
+<h1>Hi I'm Lakmina Pramodya Gamage.</h1>
 <h3>Welcome to my profile.</h3>
 
 <h4>I prefer <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt=""> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt=""> <img src="https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt=""> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt=""> <img src="" alt=""> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt=""> as my programming languages.</h4>
