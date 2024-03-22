@@ -1,7 +1,7 @@
 <h1>Hi I'm Lakmina Pramodya Gamage.</h1>
 <h3>Welcome to my profile.</h3>
 
-![](https://komarev.com/ghpvc/?username=lakminagamage&style=flat-square)
+Since 2024 March :  ![](https://komarev.com/ghpvc/?username=lakminagamage&style=flat-square)
 
 <h4>I prefer <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt=""> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt=""> <img src="https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt=""> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt=""> <img src="" alt=""> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt=""> as my programming languages.</h4>
 <h4>I use <img src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt=""> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt=""> <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" alt=""> for electronics development.</h4>
