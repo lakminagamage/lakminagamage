@@ -20,7 +20,7 @@ Since 2024 March :  ![](https://komarev.com/ghpvc/?username=lakminagamage&style=
 
 
 <h2>Read my articles at Medium </h2>
-<a  href="https://lakminagamage.medium.com"><img src="![image](https://github.com/lakminagamage/lakminagamage/assets/24446012/157c113b-9b00-4b0f-a1da-7ab73d304864)"></img>Here</a>
+<a  href="https://lakminagamage.medium.com"><img src="[![image]()](https://miro.medium.com/v2/resize:fit:8978/1*s986xIGqhfsN8U--09_AdA.png)"></img>Here</a>
 
 
 <h2>My github public stats :</h2>
