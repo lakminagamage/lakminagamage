@@ -27,6 +27,4 @@ Since 2024 March :  ![](https://komarev.com/ghpvc/?username=lakminagamage&style=
 <a  href="https://lakminagamage.medium.com"><img width="200px" height="60px" src="https://miro.medium.com/v2/resize:fit:8976/1*Ra88BZ-CSTovFS2ZSURBgg.png"></img></a>
 
 
-<h2>My github public stats :</h2>
 
-![Lakmina's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakminagamage&show_icons=true&theme=transparent)
