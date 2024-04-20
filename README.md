@@ -31,7 +31,7 @@ Since 2024 March :  ![](https://komarev.com/ghpvc/?username=lakminagamage&style=
 <a  href="https://www.linkedin.com/in/lakmina-gamage"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark&perline=1" /></a>
 
 <br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lakminagamage&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lakminagamage&theme=dark&background=000000)](https://git.io/streak-stats)]
 
 <br>
 <h2>Read my tech articles at Medium </h2>
