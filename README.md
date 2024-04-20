@@ -6,17 +6,24 @@ Since 2024 March :  ![](https://komarev.com/ghpvc/?username=lakminagamage&style=
 <h2 align="center"> My Electronics IoT & Robotics Tech Stack </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,arduino,raspberrypi,ros,opencv,rabbitmq&theme=dark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=arduino,python,raspberrypi,ros,opencv,rabbitmq&theme=dark&perline=6" />
 </div>
 
 <h2 align="center"> My Web and Application Tech Stack </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,js,java,c,react,nodejs,nextjs,tailwind,bootstrap&theme=dark&perline=9" />
+    <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,react,nodejs,nextjs,tailwind,bootstrap&theme=dark&perline=10" />
     <br>
-    <img src="https://skillicons.dev/icons?i=html,css,npm,fastapi,django,express&theme=dark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,npm,fastapi,django,express,postman,figma&theme=dark&perline=8" />
 </div>
 
+<h2 align="center"> My DevOps Tech Stack </h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=aws,azure,linux,debian,ubuntu,docker,firebase,git,github&theme=dark&perline=9" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=githubactions,mysql,netlify,nginx,vercel,postgres&theme=dark&perline=6" />
+</div>
 
 <h4>I prefer <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt=""> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt=""> <img src="https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt=""> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt=""> <img src="" alt=""> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt=""> as my programming languages.</h4>
 <h4>I use <img src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt=""> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt=""> <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" alt=""> for electronics development.</h4>
