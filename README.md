@@ -13,6 +13,7 @@ Since 2024 March :  ![](https://komarev.com/ghpvc/?username=lakminagamage&style=
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,js,java,c,react,nodejs,nextjs,tailwind,bootstrap&theme=dark&perline=9" />
+    <br>
     <img src="https://skillicons.dev/icons?i=html,css,npm,fastapi,django,express&theme=dark&perline=6" />
 </div>
 
