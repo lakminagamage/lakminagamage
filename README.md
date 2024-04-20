@@ -14,7 +14,7 @@ Since 2024 March :  ![](https://komarev.com/ghpvc/?username=lakminagamage&style=
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,react,fastapi,django,nodejs,nextjs&theme=dark&perline=10" />
     <br>
-    <img src="https://skillicons.dev/icons?i=html,css,,tailwind,bootstrap,npm,express,postman,figma&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,npm,express,postman,figma&theme=dark&perline=8" />
 </div>
 <br>
 <h2 align="center"> My DevOps Tech Stack </h2>
