@@ -27,8 +27,8 @@ Since 2024 March :  ![](https://komarev.com/ghpvc/?username=lakminagamage&style=
 <br>
 <div align="center">
 <h2>Contact me </h2>
-<a  href='mailto:pramodyalakmina@gmail.com'><img src="https://img.shields.io/badge/Gmail-D14836?syle=for-the-badge&logo=gmail&logoColor=white"></img></a> 
-<a  href="https://www.linkedin.com/in/lakmina-gamage"><img src="https://img.shields.io/badge/LinkedIn-0077B5?syle=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+<a  href='mailto:pramodyalakmina@gmail.com'><img src="https://skillicons.dev/icons?i=gmail&theme=dark&perline=1" /></a> 
+<a  href="https://www.linkedin.com/in/lakmina-gamage"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark&perline=1" /></a>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lakminagamage&theme=dark&background=000000)](https://git.io/streak-stats)
 
