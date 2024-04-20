@@ -3,10 +3,16 @@
 
 Since 2024 March :  ![](https://komarev.com/ghpvc/?username=lakminagamage&style=flat-square)
 
-<h2 align="center"> My Electronics IoT & Robotics Stack </h2>
+<h2 align="center"> My Electronics IoT & Robotics Tech Stack </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,arduino,raspberrypi,ros,opencv,rabbitmq&theme=dark&perline=4" />
+    <img src="https://skillicons.dev/icons?i=python,arduino,raspberrypi,ros,opencv,rabbitmq&theme=dark&perline=6" />
+</div>
+
+<h2 align="center"> My Web and Application Tech Stack </h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,js,java,c,react,nodejs,nextjs,tailwind,bootstrap,html,css,npm,fastapi,django,express&theme=dark&perline=6" />
 </div>
 
 
