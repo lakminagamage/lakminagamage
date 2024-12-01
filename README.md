@@ -1,7 +1,7 @@
 <h1>Hi I'm Lakmina Pramodya Gamage.</h1>
 <h3>Welcome to my profile.</h3>
 
-![](https://komarev.com/ghpvc/?username=vshwanilgv&style=flat-square)
+![](https://komarev.com/ghpvc/?username=lakminagamage&style=flat-square)
 
 <h2 align="center"> My Electronics IoT & Robotics Tech Stack </h2>
 <br/>
