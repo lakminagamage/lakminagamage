@@ -14,7 +14,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,react,fastapi,django,nodejs,nextjs&theme=dark&perline=10" />
     <br>
-    <img src="https://skillicons.dev/icons?i=spring,html,css,tailwind,bootstrap,npm,express,postman,figma&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=spring,html,css,tailwind,bootstrap,npm,express,postman,figma&theme=dark&perline=9" />
 </div>
 <br>
 <h2 align="center"> My DevOps Tech Stack </h2>
