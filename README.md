@@ -22,7 +22,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,debian,ubuntu,firebase,git,github&theme=dark&perline=10" />
     <br>
-    <img src="https://skillicons.dev/icons?i=githubactions,mysql,terraform,netlify,nginx,vercel,postgres&theme=dark&perline=7" />
+    <img src="https://skillicons.dev/icons?i=githubactions,,bash,mysql,terraform,netlify,nginx,vercel,postgres&theme=dark&perline=7" />
 </div>
 <br>
 <div align="center">
