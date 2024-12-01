@@ -23,6 +23,8 @@
     <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,debian,ubuntu,firebase,git,github&theme=dark&perline=10" />
     <br>
     <img src="https://skillicons.dev/icons?i=githubactions,bash,mysql,terraform,netlify,nginx,vercel,postgres&theme=dark&perline=9" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=md,maven,neovim,sqlite&theme=dark&perline=4" />
 </div>
 <br>
 <div align="center">
