@@ -20,9 +20,9 @@
 <h2 align="center"> My DevOps Tech Stack </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=aws,azure,kubernates,linux,debian,ubuntu,docker,firebase,git,github,terraform&theme=dark&perline=9" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,debian,ubuntu,firebase,git,github&theme=dark&perline=10" />
     <br>
-    <img src="https://skillicons.dev/icons?i=githubactions,mysql,netlify,nginx,vercel,postgres&theme=dark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=githubactions,mysql,terraform,netlify,nginx,vercel,postgres&theme=dark&perline=7" />
 </div>
 <br>
 <div align="center">
