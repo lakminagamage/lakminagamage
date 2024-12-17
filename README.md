@@ -9,14 +9,6 @@
     <img src="https://skillicons.dev/icons?i=arduino,python,raspberrypi,ros,opencv,rabbitmq&theme=dark&perline=6" />
 </div>
 <br>
-<h2 align="center"> My Web and Application Tech Stack </h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,react,fastapi,django,nodejs,nextjs&theme=dark&perline=10" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=spring,html,css,tailwind,bootstrap,npm,express,postman,figma&theme=dark&perline=9" />
-</div>
-<br>
 <h2 align="center"> My DevOps Tech Stack </h2>
 <br/>
 <div align="center">
@@ -26,6 +18,18 @@
     <br>
     <img src="https://skillicons.dev/icons?i=md,maven,neovim,sqlite&theme=dark&perline=4" />
 </div>
+
+
+<br>
+<h2 align="center"> My Web and Application Tech Stack </h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,react,fastapi,django,nodejs,nextjs&theme=dark&perline=10" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=spring,html,css,tailwind,bootstrap,npm,express,postman,figma&theme=dark&perline=9" />
+</div>
+<br>
+
 <br>
 <div align="center">
 <h2>Contact me </h2>
